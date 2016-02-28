@@ -1,0 +1,30 @@
+_repo: Old-Rose-and-Silver_5401
+creator:
+  author:
+    agent_name: Reed, Myrtle
+    alias: Green, Olive
+    birthdate: 1874
+    deathdate: 1911
+    gutenberg_agent_id: '577'
+    url: http://www.gutenberg.org/2009/agents/577
+    wikipedia: http://www.online-literature.com/myrtle-reed/
+description: "Old Rose and Silver is a novel by Myrtle Reed first published in 1909.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5401'
+  wikidata: Q7084871
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Musicians -- Fiction'
+- !lcsh 'American fiction -- 20th century'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcc 'PS'
+title: Old Rose and Silver
+url: http://www.gutenberg.org/ebooks/5401
+wikipedia:
+- https://en.wikipedia.org/wiki/Old_Rose_and_Silver
