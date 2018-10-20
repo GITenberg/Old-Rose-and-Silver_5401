@@ -1,5 +1,5 @@
 _repo: Old-Rose-and-Silver_5401
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -30,6 +30,7 @@ subjects:
 - !lcsh 'American fiction -- 20th century'
 - !lcsh 'Man-woman relationships -- Fiction'
 - !lcc 'PS'
+- GITenberg
 title: Old Rose and Silver
 url: http://www.gutenberg.org/ebooks/5401
 wikipedia:
